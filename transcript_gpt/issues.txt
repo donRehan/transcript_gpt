@@ -1,0 +1,13 @@
+❯ yt-dlp "https://www.youtube.com/watch?v=nQ2A30cD3Q8" --format m4a -o "./tmp/test.m4a"
+[generic] Extracting URL: https://www.youtube.com/watch\?v\=kD-Kcskg6_Y
+[generic] watch\?v\=kD-Kcskg6_Y: Downloading webpage
+ERROR: [generic] None: Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: 'Not Found'>); please report t
+his issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest v
+ersion using  yt-dlp -U
+❯ yt-dlp "https://www.youtube.com/watch\?v=kD-Kcskg6_Y" --format m4a -o "./tmp/test.m4a"
+
+[generic] Extracting URL: https://www.youtube.com/watch\?v=kD-Kcskg6_Y
+[generic] watch\?v=kD-Kcskg6_Y: Downloading webpage
+ERROR: [generic] None: Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: 'Not Found'>); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+
+The following error happens when I try downloading Lofty Zakaria's videos
